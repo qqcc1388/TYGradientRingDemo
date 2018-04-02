@@ -59,6 +59,6 @@ UIBezierPath *bezierPath = [UIBezierPath bezierPathWithArcCenter:CGPointMake(sel
     [self.layer addSublayer:self.gradientLayer];
 
 ```
-更多内容参见demo：
+更多内容参见demo：https://github.com/qqcc1388/TYGradientRingDemo
 
-转载请标注来源：
+转载请标注来源：http://www.cnblogs.com/tinych/p/8670620.html
